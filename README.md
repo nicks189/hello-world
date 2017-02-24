@@ -1,3 +1,2 @@
 # hello-world
-stuff
-My name is Nick :)
+Hello, my name is Nick :)
